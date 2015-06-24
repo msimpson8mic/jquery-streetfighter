@@ -8,6 +8,7 @@ $(document).ready(function() {
     $('.ryu-still').show();
   })
   .mousedown(function() {
+    playHadouken();
     $('.ryu-ready').hide();
     $('.ryu-throwing').show();
     $('.hadouken').finish().show().animate(
