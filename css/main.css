@@ -57,3 +57,21 @@ body {
 .ryu-cool {
   background-image: url('../images/ryu-cool.gif');
 }
+
+.text1, .text2 {
+  color: red;
+  position: absolute;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.text1 {
+  top: 190px;
+  left: 560px;
+}
+
+.text2 {
+  top: 190px;
+  left: 870px;
+}
