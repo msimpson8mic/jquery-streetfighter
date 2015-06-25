@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Suplexmentary Comic';
+  src:url('../fonts/Suplexmentary Comic NC.ttf');
+}
+
 body {
 	background-color: black;
 }
@@ -61,7 +66,7 @@ body {
 .text1, .text2 {
   color: red;
   position: absolute;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Suplexmentary Comic', sans-serif;
   font-size: 30px;
   line-height: 40px;
 }
