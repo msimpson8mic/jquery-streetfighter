@@ -80,3 +80,9 @@ body {
   top: 190px;
   left: 870px;
 }
+
+.jquery-logo {
+  position: absolute;
+  top: 65px;
+  left: 930px;
+}
